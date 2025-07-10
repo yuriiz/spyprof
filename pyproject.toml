@@ -1,0 +1,21 @@
+[project]
+name = "spyprof"
+version = "0.0.1"
+authors = [
+  { name="Yurii Zolotko", email="yurii.zolotko@pm.me" },
+]
+description = "Sampling Python Profiler"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "BSD-3-Clause"
+license-files = ["LICEN[CS]E*"]
+dependencies = [
+  "pygments",
+]
+[project.urls]
+Homepage = "https://github.com/yuriiz/spyprof"
+Issues = "https://github.com/yuriiz/spyprof/issues"
