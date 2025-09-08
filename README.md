@@ -54,7 +54,7 @@ if __name__ == "__main__":
 Will result in the following reports:
 | real.html | prof.html |
 | --------- | --------- |
-| <img width="1280" height="958" alt="Screenshot 2025-09-08 at 21-13-57 " src="https://github.com/user-attachments/assets/a801a750-9471-439b-85d0-3fce44c37cc6" /> | <img width="1280" height="958" alt="Screenshot 2025-09-08 at 21-14-04 " src="https://github.com/user-attachments/assets/5a1360cc-19e3-4571-b808-e415049e3d3b" /> |
+| <img width="1280" height="1018" alt="Screenshot 2025-09-08 at 21-38-40 " src="https://github.com/user-attachments/assets/c6fd5d52-0cea-4183-8ae8-8b8cf7677a81" /> | <img width="1280" height="1018" alt="Screenshot 2025-09-08 at 21-38-34 " src="https://github.com/user-attachments/assets/e899ab38-550a-408f-8f70-8e797b2e8e3d" /> |
 
 
 
